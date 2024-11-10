@@ -1,5 +1,5 @@
 # リアルタイム回答状況更新可能なアンケートの作成
-2023-01-31 ('lab-assign' Branch for Laboratory Assignment 2023-10-12)
+2023-01-31 ('lab-assign' Branch for Laboratory Assignment 2024-11-10)
 Naoki FUJIEDA, AIT
 
 ## 概要
@@ -184,4 +184,4 @@ Forms で教員代理入力用アンケートを作成した場合は，以下�
 
 New BSD ライセンスが適用されます．詳細は COPYING ファイルを参照してください．
 
-Copyright (C) 2023 Naoki FUJIEDA. All rights reserved.
+Copyright (C) 2023-2024 Naoki FUJIEDA. All rights reserved.
