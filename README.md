@@ -196,7 +196,7 @@ Forms で別途アンケートを作成します．そのアンケートに回�
 
 以上のステップを終えると，下図に示す通りのフローが追加されるはずです．
 
-<div style="text-align: center"><img src="./img/group_flow.png" style="width: 40%; border: 1px solid black;" alt="所属グループ確認のフロー"></div>
+<div style="text-align: center"><img src="./img/group_flow.png" style="width: 30%; border: 1px solid black;" alt="所属グループ確認のフロー"></div>
 
 ### 定期的に回答状況を Teams に投稿する（オプション）
 
@@ -229,7 +229,7 @@ Forms で別途アンケートを作成します．そのアンケートに回�
 
 以上のステップを終えると，下図に示す通りのフローが追加されるはずです．
 
-<div style="text-align: center"><img src="./img/post_flow.png" style="width: 40%; border: 1px solid black;" alt="回答状況定期投稿のフロー"></div>
+<div style="text-align: center"><img src="./img/post_flow.png" style="width: 30%; border: 1px solid black;" alt="回答状況定期投稿のフロー"></div>
 
 ## 配属調整当日のワークフロー
 
